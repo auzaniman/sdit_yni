@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\DashboardController;
-use App\Http\Controllers\SMAITController;
+use App\Http\Controllers\SDITController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
@@ -19,11 +19,11 @@ use Illuminate\Support\Facades\Auth;
 
 // Yayasan
 Route::get('/', function () {
-    return view('user_view.pages.smait.home');
+    return view('user_view.pages.sdit.home');
   })->name('home');
 
 // PPDB Form
-Route::resource('ppdb_smait', SMAITController::class);
+Route::resource('ppdb_sdit', SDITController::class);
 
 // Admin
 // Route::prefix('admin')
