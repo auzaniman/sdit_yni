@@ -47,9 +47,9 @@ SMAIT Nurul 'Ilmi Tenggarong
     <div class="row">
       <div class="row justify-content-center text-center my-sm-5">
         <div class="col-lg-6">
-          <span class="badge bg-success mb-3">Visi SMAIT</span>
+          <span class="badge bg-success mb-3">Visi SDIT</span>
           <h2 class="text-dark mb-0">Visi Sekolah Kami</h2>
-          <p class="lead">"Menjadi lembaga pendidikan unggul dan profesional dalam mencetak SDM Islami yang berkarakter, kompetitif dan berwawasan global." </p>
+          <p class="lead">"Terwujudnya sekolah Islam Terpadu yang mencetak generasi unggul, bersih, sehat dan berkarakter berdasarkan IMTAQ dan IPTEK." </p>
         </div>
       </div>
     </div>
@@ -65,13 +65,13 @@ SMAIT Nurul 'Ilmi Tenggarong
               <div class="front front-background" style="background-image: url(frontend/assets/img/SMAIT/3.jpeg); background-size: cover;">
                 <div class="card-body py-7 text-center">
                   <i class="material-icons text-white text-4xl my-3">touch_app</i>
-                  <h3 class="text-white">Jelajahi <br /> SMAIT Nurul 'Ilmi</h3>
+                  <h3 class="text-white">Jelajahi <br /> SDIT Nurul 'Ilmi</h3>
                   <p class="text-white opacity-8">Mengenal program dan bidang SMAIT dalam pengembangan didunia pendidikan.</p>
                 </div>
               </div>
               <div class="back back-background" style="background-image: url(frontend/assets/img/SMAIT/2.jpeg); background-size: cover;">
                 <div class="card-body pt-7 text-center">
-                  <h3 class="text-white">Jelajahi SMAIT</h3>
+                  <h3 class="text-white">Jelajahi SDIT</h3>
                   <p class="text-white opacity-8">Mengenal program dan bidang SMAIT dalam pengembangan didunia pendidikan.</p>
                 </div>
               </div>

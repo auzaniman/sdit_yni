@@ -6,7 +6,7 @@
           <a href="">
             <img src="{{ url('frontend/assets/img/SMAIT/logo.png')}}" class="mb-3 footer-logo" alt="main_logo">
           </a>
-          <h6 class="font-weight-bolder mb-4">SMAIT Nurul 'Ilmi</h6>
+          <h6 class="font-weight-bolder mb-4">SDIT Nurul 'Ilmi</h6>
         </div>
         <div>
           <ul class="d-flex flex-row ms-n3 nav">
@@ -134,7 +134,7 @@
       <div class="col-12">
         <div class="text-center">
           <p class="text-dark my-4 text-sm font-weight-normal">
-            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script> SMAIT Nurul 'Ilmi Tenggarong by <a href="https://www.ynikoetaikartanagara.com" target="_blank">IT YNI Team</a>.
+            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script> SDIT Nurul 'Ilmi Tenggarong by <a href="https://www.ynikoetaikartanagara.com" target="_blank">IT YNI Team</a>.
           </p>
         </div>
       </div>
