@@ -83,23 +83,28 @@ SDIT Nurul 'Ilmi Tenggarong
             <div class="col-md-6">
               <div class="info">
                 <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-                <h5 class="font-weight-bolder mt-2">Pendidikan Integrasi Al-Qur'an</h5>
-                <p class="pe-5">Menyelenggarakan Pendidikan yang mengintegrasikan ayat qauliyah dan qauniyah ; iman, ilmu dan amal ; ruhiyah dan jasadiyah dalam lingkungan pendidikan yang aman, nyaman dan Islami.</p>
+                <h5 class="font-weight-bolder mt-2">Pendidikan Islam Terpadu</h5>
+                <p class="pe-5">Menerapkan sistem pendidikan Islam Terpadu yang mengintegrasikan ayat-ayat qouliyah dan kauniyah, Iman dan ‘Amal, Ruhiyah dan Jasadiyah dalam lingkungan pendidikan yang Islami, Sehat, Bersih, aman dan nyaman.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info">
                 <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-                <h5 class="font-weight-bolder mt-2">Pendidikan Karakter</h5>
-                <p class="pe-3">Menyelenggarakan pendidikan menengah umum untuk menghasilkan lulusan yang berakidah lurus, beribadah secara benar, berakhlaq mulia, berpikir ilmiah, berkepribadian mandiri, kreatif, disiplin serta berbadan sehat, kuat dan terampil.</p>
+                <h5 class="font-weight-bolder mt-2">Pendidikan Karakter, Berwawasan dan Sehat</h5>
+                <p class="pe-3">Membiasakan pola hidup Jujur, Disiplin dan Bertanggung Jawab, Membiasakan siswa untuk bersikap sopan santun (Adab Islami), Membiasakan pola hidup bersih serta Peduli Terhadap Pengendalian Pencemaran dan kerusakan juga Pelestarian lingkungan hidup, sehingga tercipta sekolah berwawasan, dan berbudaya lingkungan yang sehat.</p>
               </div>
             </div>
           </div>
           <div class="row justify-content-start mt-3">
             <div class="col-md-6 mt-2">
               <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
-              <h5 class="font-weight-bolder mt-3">Generasi Pemuda Muslim</h5>
-              <p class="pe-5">Mewujudkan generasi muda muslim berilmu, berwawasan luas dan global, bermanfaat bagi ummat serta kejayaan Islam dan kamu muslimin.</p>
+              <h5 class="font-weight-bolder mt-3">Pendidikan Pusat Inovasi dan Inspirasi</h5>
+              <p class="pe-5">Menyelenggarakan pendidikan yang menjadi pusat inovasi dan inspirasi pengembangan mutu pendidikan.</p>
+            </div>
+            <div class="col-md-6 mt-2">
+              <i class="material-icons text-gradient text-danger text-3xl">flip_to_front</i>
+              <h5 class="font-weight-bolder mt-3">Pendidikan Tanah Air</h5>
+              <p class="pe-5">Menanamkan rasa cinta tanah air dan bangsa.</p>
             </div>
           </div>
         </div>
@@ -913,7 +918,7 @@ SDIT Nurul 'Ilmi Tenggarong
           <h3 class="text-gradient text-danger mb-0">SDIT Nurul 'Ilmi</h3>
           <h3>Tenggarong</h3>
           <p class="pe-md-5 mb-4">
-            SDIT Nurul ‘Ilmi Tenggarong berdiri pada tahun 2012 merupakan SD berkonsep Islam Terpadu pertama berdiri di Kalimantan. SDIT Nurul ’Ilmi Tenggarong menyelenggarakan pendidikan sesuai dengan kurikulum nasional yang diperkaya dengan nilai-nilai Islam. Berkomitmen mengimplementasikan sistem pendidikan Islam secara terpadu untuk melahirkan generasi muslim terbaik menuju terwujudnya kejayaan Islam.
+            SDIT Nurul ‘Ilmi Tenggarong merupakan SD berkonsep Islam Terpadu pertama berdiri di Kalimantan. SDIT Nurul ’Ilmi Tenggarong menyelenggarakan pendidikan sesuai dengan kurikulum nasional yang diperkaya dengan nilai-nilai Islam. Berkomitmen mengimplementasikan sistem pendidikan Islam secara terpadu untuk melahirkan generasi muslim terbaik menuju terwujudnya kejayaan Islam.
           </p>
         </div>
         <div class="col-md-5 col-12 my-auto">
