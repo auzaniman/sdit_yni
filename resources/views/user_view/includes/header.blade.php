@@ -1,5 +1,5 @@
 <header class="header-2">
-  <div class="page-header min-vh-100 relative" style="background-image: url('frontend/assets/img/SMAIT/1.jpeg')">
+  <div class="page-header min-vh-100 relative" style="background-image: url('frontend/assets/img/SDIT/1.jpeg')">
     <span class="mask bg-gradient-dark opacity-9"></span>
     <div class="container">
       <div class="row">

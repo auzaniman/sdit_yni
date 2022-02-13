@@ -250,7 +250,7 @@
         </li> --}}
         <li class="nav-item my-auto ms-3 ms-lg-0">
 
-          <a href="https://ynikoetaikartanagara.com/ppdb" class="btn btn-sm  bg-gradient-success  mb-0 me-1 mt-2 mt-md-0">Masuk</a>
+          <a href="https://ynikoetaikartanagara.com/ppdb" class="btn btn-sm  bg-gradient-danger  mb-0 me-1 mt-2 mt-md-0">Masuk</a>
 
         </li>
       </ul>
