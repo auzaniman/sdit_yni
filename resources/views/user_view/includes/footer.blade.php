@@ -4,7 +4,7 @@
       <div class="col-md-3 mb-4 ms-auto">
         <div>
           <a href="">
-            <img src="{{ url('frontend/assets/img/SMAIT/logo.png')}}" class="mb-3 footer-logo" alt="main_logo">
+            <img src="{{ url('frontend/assets/img/SDIT/logo.png')}}" class="mb-3 footer-logo" alt="main_logo">
           </a>
           <h6 class="font-weight-bolder mb-4">SDIT Nurul 'Ilmi</h6>
         </div>
